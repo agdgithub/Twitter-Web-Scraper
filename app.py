@@ -36,7 +36,7 @@ try:
     username = wait.until(
         EC.presence_of_element_located((By.CSS_SELECTOR, 'input[autocomplete=username]'))
     )
-    username.send_keys("agd_27")
+    username.send_keys("Your_username")
 
     login_button = wait.until(
         EC.presence_of_element_located((By.CSS_SELECTOR, '[role=button].r-13qz1uu'))
@@ -46,7 +46,7 @@ try:
     password = wait.until(
         EC.presence_of_element_located((By.CSS_SELECTOR, '[type=password]'))
     )
-    password.send_keys("agdtwitter@45")
+    password.send_keys("Your_password")
 
     login_button = wait.until(
         EC.presence_of_element_located((By.CSS_SELECTOR, '[data-testid*=Login_Button]'))
