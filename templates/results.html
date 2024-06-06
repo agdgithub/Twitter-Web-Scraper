@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <p>These are the most happening topics as on {{ record.date_and_time }}:</p>
+    <ul>
+        <li>{{ record.nameoftrend1 }}</li>
+        <li>{{ record.nameoftrend2 }}</li>
+        <li>{{ record.nameoftrend3 }}</li>
+        <li>{{ record.nameoftrend4 }}</li>
+        <li>{{ record.nameoftrend5 }}</li>
+    </ul>
+    <p>The IP address used for this query was {{ record.ip_address }}.</p>
+    <h2>Here’s a JSON extract of this record from the MongoDB:</h2>
+    <pre>{{ record | tojson }}</pre>
+    <!-- <pre>{{ json_data }}</pre> -->
+    <a href="/">Click here to run the query again.</a>
+</body>
+
+</html>
