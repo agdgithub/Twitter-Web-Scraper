@@ -26,7 +26,7 @@ Insert your Twitter username and password
 
 MongoDB Connection
 ```
-mongodb+srv://daberaoakshay1:6ufKPdL0R1iXg9dv@cluster0.7lpipcb.mongodb.net/
+mongodb+srv://daberaoakshay1:*********@cluster0.7lpipcb.mongodb.net/
 ```
 
 
