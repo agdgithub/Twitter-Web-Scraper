@@ -24,6 +24,11 @@ Insert your Twitter username and password
 49  password.send_keys("Your_password")
 ```
 
+MongoDB Connection
+```
+mongodb+srv://daberaoakshay1:6ufKPdL0R1iXg9dv@cluster0.7lpipcb.mongodb.net/
+```
+
 
 ## Run
 
