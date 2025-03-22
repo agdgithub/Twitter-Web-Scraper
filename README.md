@@ -41,11 +41,7 @@ In browser open
 http://127.0.0.1:5000/
 ```
 
-## Screenshots
 
-![127 0 0 1_5000 - Personal - Microsoft​ Edge 06-06-2024 14_46_50](https://github.com/agdgithub/Twitter-Web-Scraper/assets/98071875/6a665984-d5a6-4d9a-b7c3-5c7de630ba7a)
-
-![127 0 0 1_5000_run-script - Personal - Microsoft​ Edge 06-06-2024 14_47_45](https://github.com/agdgithub/Twitter-Web-Scraper/assets/98071875/c96eb0c8-c2fd-4e25-ac0b-4503f6e980b8)
 
 
 
